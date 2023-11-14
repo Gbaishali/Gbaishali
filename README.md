@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gbaishali
+- 👋 Hi, I’m Baishali from India
 - 👀 I’m interested in Data Science, ML, AI
 - 🌱 I’m currently learning ML techniques
 - 📫 How to reach me ... EMAIL msghosh1000@gmail.com
